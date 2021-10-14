@@ -6,7 +6,8 @@ authors = ["rgolovnya <rgolovnya@yahoo.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-autopep8 = "^1.5.7"
+Django = "^3.2.8"
+djangorestframework = "^3.12.4"
 
 [tool.poetry.dev-dependencies]
 
